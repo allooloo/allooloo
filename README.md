@@ -1,5 +1,5 @@
 # Allooloo Technologies Corp.
-**Agentic Capital Markets Tools.** The Capital Markets Knowledge Graph (CM-KG), served live to AI agents over the Model Context Protocol. Canada first.
+**Agentic Capital Markets Global Desk.** The record every agent reads: the Capital Markets Knowledge Graph (CM-KG) over MCP, A2A between agents, x402 to settle. Canada first.
 
 ## Canada's equity market, mapped for agents
 On September 10, 2026, Allooloo ran the whole Canadian listed market through machines and recorded what answered.
@@ -36,6 +36,11 @@ Canada · United Kingdom · Australia · Singapore · Switzerland · Germany · 
 ## The orchestra
 Eight engines, named duties, human cut. Claude adjudicates. ChatGPT extracts at scale. Gemini reads the whole filing. Perplexity grounds the cold read. Grok hears the wire first. Mistral reads Montréal in French and Frankfurt in German. Tavily is the net. Cloudflare is the network. Compute on Microsoft Azure; the Google Cloud AI stack deployed as it ships.
 
+## The stack
+- **MCP** — how an agent calls the record. The door.
+- **A2A** — how a dealer's agent and an issuer's agent talk to each other. Next.
+- **x402** — how they settle. Named, dated when it answers, never linked before it does.
+
 ## Repositories
 - **cm-kg** — the Capital Markets Knowledge Graph
 - **cm-record** — the CMR object standard: schema, signing, versioning, resolver
@@ -45,6 +50,6 @@ Eight engines, named duties, human cut. Claude adjudicates. ChatGPT extracts at 
 Doors open here as they answer. None is listed before it does.
 
 ## Keywords
-capital markets knowledge graph · MCP server · Model Context Protocol · AI agents finance · agentic capital markets · issuer record · Capital Markets Record · KYP · product governance · continuous disclosure · ISIN · LEI · SEDAR+ · TSX · TSXV · CSE · listed companies dataset · investment dealer compliance · Canada · Bay Street · agentic fintech
+capital markets knowledge graph · MCP server · Model Context Protocol · A2A · x402 · AI agents finance · agentic capital markets · issuer record · Capital Markets Record · KYP · product governance · continuous disclosure · ISIN · LEI · SEDAR+ · TSX · TSXV · CSE · listed companies dataset · investment dealer compliance · Canada · Bay Street · agentic fintech
 
 Vancouver, Canada · https://allooloo.io · **2027, today.**
