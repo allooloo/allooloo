@@ -5,9 +5,11 @@ AI agent products for financial services. Allooloo runs the zones of record — 
 ## Two products, live
 
 **get_issuer** — the capital markets issuer record. Every listed company on twelve exchanges, every field sourced and read-dated, served in the issuer's own jurisdiction, callable by any agent over the Model Context Protocol (MCP) and the Agent-to-Agent protocol (A2A).
+
 Door: `https://mcp.getissuer.ai/mcp` · Page: https://getissuer.ai
 
 **Issuerwire** — agentic news coverage of the same issuers. Every filing and release as a signed row an agent can read, cite and pay for per call.
+
 Door: `https://mcp.issuerwire.ai/mcp` · Page: https://issuerwire.ai
 
 ## The record, as of 2026-10-22
@@ -28,13 +30,14 @@ Counts move every night. The live figures are at https://getissuer.ai and https:
 
 One record, twelve names for the same duty: Know Your Product (KYP) in Canada, Regulation Best Interest in the United States, product governance in the United Kingdom and the European Union, FinSA in Switzerland, the Design and Distribution Obligations in Australia, product due diligence in Singapore. An agent that recommends, approves or trades a product cites the record it read.
 
-Duty doors: agent-kyp.ai · agent-regbi.ai · agent-prod.ai · agent-mifid.ai · agent-finsa.ai · agent-ddo.ai
-Sovereign node pages: ca · us · uk · de · fr · nl · ch · au · sg · jp · kr · hk -issuer.ai
-Standards: kyp-model.org · issuerwire.org
+- **Duty doors:** agent-kyp.ai · agent-regbi.ai · agent-prod.ai · agent-mifid.ai · agent-finsa.ai · agent-ddo.ai
+- **Sovereign node pages:** ca-issuer.ai · us-issuer.ai · uk-issuer.ai · de-issuer.ai · fr-issuer.ai · nl-issuer.ai · ch-issuer.ai · au-issuer.ai · sg-issuer.ai · jp-issuer.ai · kr-issuer.ai · hk-issuer.ai
+- **Standards:** kyp-model.org · issuerwire.org
 
 ## The stack
 
 MCP — how an agent calls the record. A2A — how agents hand off. x402 — how they pay per read.
+
 Registry: `io.github.allooloo/cm-kg` · `io.github.allooloo/issuerwire`
 
 ## Repositories
